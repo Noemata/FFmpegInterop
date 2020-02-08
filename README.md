@@ -4,7 +4,7 @@
 
 ## Welcome to FFmpegInterop library for Windows.
 
-FFmpegInterop is an open-source project that aims to provide an easy way to use FFmpeg in Windows 10 UWP applications supporting playback of various of media containers. FFmpegInterop implements a [MediaStreamSource](https://msdn.microsoft.com/en-us/library/windows/apps/windows.media.core.mediastreamsource.aspx) which leverages FFmpeg to process media and uses the Windows media pipeline for playback.
+FFmpegInterop is an open-source project that aims to provide an easy way to use FFmpeg in your Windows 10 UWP application supporting playback of various media containers. FFmpegInterop implements a [MediaStreamSource](https://msdn.microsoft.com/en-us/library/windows/apps/windows.media.core.mediastreamsource.aspx) which leverages FFmpeg to process media and uses the Windows media pipeline for playback.
 
 One of the advantages of this approach is that audio and video synchronization is handled by the Windows media pipeline. You can also use the Windows built-in audio and video decoders which allows for better power consumption on mobile devices.
 
