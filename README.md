@@ -13,7 +13,7 @@ Getting a compatible build of FFmpeg is required for this to work.
 
 Use git to clone this repository.
 
-	git clone --recursive git://github.com/microsoft/FFmpegInterop.git
+	git clone --recursive https://github.com/Noemata/FFmpegInterop
 
 Your `FFmpegInterop` folder should look as follows
 
